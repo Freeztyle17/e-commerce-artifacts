@@ -1,1 +1,1 @@
-# e-commerce-artifacts
+# WMS-lite: Система управления складом для e-commerce
